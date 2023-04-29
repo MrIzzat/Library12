@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Library12</string>
+    <string name="choose_book_type">Choose Book Type</string>
+    <string name="show">Show</string>
+    <string name="add_a_book">Add a Book</string>
+    <string name="add">Add</string>
+    <string name="back">Back</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="title">Title:</string>
+    <string name="number_of_pages">Number of Pages:</string>
+    <string-array name="types">
+        <item>Programming</item>
+        <item>Testing</item>
+        <item>Database</item>
+        <item>Fantasy</item>
+        <item>Business</item>
+        <item>Mathematics</item>
+    </string-array>
+</resources>
